@@ -1,0 +1,36 @@
+
+.auth {
+    display: flex;
+    width: 100vw;
+    height: calc(100vh - 100px);
+    justify-content: center;
+    align-items: center;
+}
+.form {
+    border: rgba(65, 79, 119, 0.71) 1px solid;
+    border-radius: 24px;
+    width: 500px;
+}
+.form_inputs {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    align-items: center;
+    justify-content: center;
+}
+.form_inputs label {
+    margin-top: 20px;
+    width: 100%;
+}
+.form_inputs input {
+    margin-top: 2px;
+    width: 100%;
+    background-color: white;
+    border: #f8f5f5 2px solid;
+    border-radius: 2pt;
+    padding: 5px;
+}
+.form_inputs input:focus {
+    outline: 1px solid #2c2ccc;
+    border-radius: 2pt;
+}

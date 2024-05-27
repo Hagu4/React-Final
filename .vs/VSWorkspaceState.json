@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\client",
+    "\\server"
+  ],
+  "SelectedNode": "\\client\\.eslintrc.cjs",
+  "PreviewInSolutionExplorer": false
+}
